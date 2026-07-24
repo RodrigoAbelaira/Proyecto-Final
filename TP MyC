@@ -1,0 +1,36 @@
+Proyecto Final de Mentalidad y Crecimiento en Entornos Digitales.
+
+
+Contexto del Problema: En un sanatorio privado me encontraba trabajando como guardia de seguridad con dos compañeros más, básicamente teníamos que controlar a las personas que ingresaban al edificio tanto a cualquier empleado sea interno(del mismo sanatorio) o externo (un tercerizado) como también a los pacientes. 
+
+Descripción del desafío: En uno de los meses de pandemia, se prohibió que no ingresaran más de un acompañantes por paciente, lo cual, trajo serias discusiones con los familiares de las personas ingresadas al sanatorio y muchos de estos familiares hacían caso omiso a las instrucciones que nos dejaron los jefes de ese sanatorio. El problema principal que teníamos era que el hall donde tenían que esperar los acompañantes para que no ingresen todos a las habitaciones estaba muy alejado de donde era el puesto de vigilancia y muy cerca de un ascensor de solo  personal interno por lo que nunca podríamos llegar a controlar bien la zona.
+
+Acciones tomadas(post-mortem):
+Línea de tiempo(timeline): Entre los horarios de visita se acumulan más personas de las permitidas en medio de la pandemia por coronavirus con pacientes en estado grave. 
+Evidencia recopilada: Grabaciones de las cámaras de seguridad donde se enfoca como las personas en la sala de espera utilizan un ascensor solo para personal del sanatorio para poder acceder a los cuartos sin autorización de seguridad.
+Impacto: en ese contexto cualquier acumulación podrá ser expuestas al virus y empeorar su situación.
+Causa raíz: El problema no fue únicamente la conducta de los familiares, sino una falla de diseño operativo: el puesto de vigilancia estaba demasiado alejado del hall de espera y, además, el hall tenía cercanía directa a un ascensor utilizado para acceder a habitaciones. Esa combinación permitió que los acompañantes eludieran el control de seguridad. 
+Acciones correlativas y preventivas: 
+	A: Dar aviso a los jefes médicos de la situación .
+	B: Control más estricto en los pisos con pacientes de alto riesgo.
+C: Mover el puesto de vigilancia hacia el hall de espera.
+D: Con autorización de los jefes médicos pedir a mantenimiento que el ascensor no pueda parar en la planta baja donde se encontraba el hall de espera.
+E: Hacer una nueva plantilla de ingreso en la cual se especifique el tiempo que se va a demorar cada turno de las visitas correspondientes a cada habitación.
+F: Cámara de seguridad exclusiva para vigilar el ingreso de acompañantes en pisos de alto riesgo.
+Responsables y seguimiento: 
+Los Jefes médicos nos dan autorizaciones para poder realizar las acciones correspondientes para poder solucionar el problema.
+Personal de seguridad se dispondrá a estar uno controlando desde las cámaras otro en el salón controlando el ingreso de las personas y que suban al ascensor cuando no les corresponda y un tercero en los pisos de alto riesgo.
+El tiempo de estas medidas estarán dados el los horarios de visitas de los pisos de alto riesgo.
+
+Lecciones aprendidas: Luego de todo este proceso podemos deducir que:
+1:  No se puede confiar en la buena voluntad de los acompañantes si no están debidamente controlados.
+2: Los jefes médicos no tomaron en cuenta la mala distribución de comó ordenaron los puestos de vigilancia y tampoco tomaron en cuenta las observaciones de seguridad hasta que el problema apareció.
+3: Seguridad tomó en cuenta las acciones inadecuadas de las personas para poder llevar un registro de los problemas, elevarlos a los jefes médicos y obtener mejoras en el servicio.
+4: A partir de estos cambios tanto los jefes médicos como el personal de seguridad pudieron resolver en conjunto el problema de acumulación de personas y se pudo trabajar de mejor manera. 
+
+Reflexión sobre feedback de colegas/mentores (mejoras aplicadas):
+●	Identificación de causa raíz: Me marcaron que estaba atribuyendo el problema principalmente al incumplimiento de los familiares, dejando de lado el rol de la infraestructura y la ubicación del puesto de seguridad. Ajusté la causa raíz al enfoque de “falla de diseño operativo”, considerando la distancia entre el puesto de vigilancia, el hall de espera y el ascensor.
+●	Acciones preventivas: Me señalaron que las soluciones iniciales eran insuficientes. Entonces apliqué acciones que pudieran bloquear el flujo del incidente (reconfiguración técnica del ascensor y reubicación del puesto de control), en lugar de limitarme a avisos o pedidos de más control.
+●	Comunicación interdepartamental: También observé que no quedaba claro cómo la falta de alineación entre jefes médicos y seguridad ralentizó la respuesta. Aclaré que la escucha tardía sobre la mala distribución del puesto demoró la solución y que la integración temprana del feedback de primera línea fue clave.
+
+	
